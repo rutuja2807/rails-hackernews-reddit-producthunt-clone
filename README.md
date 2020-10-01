@@ -1,4 +1,4 @@
-# [Reddit-Hackernews-ProductHunt Clone on Rails](https://blairanderson.github.io/rails-hackernews-reddit-producthunt-clone/)
+# [Reddit-Hackernews-ProductHunt Clone on Rails] (https://blairanderson.github.io/rails-hackernews-reddit-producthunt-clone/)
 
 Maintained by [Blair Anderson - Amazon Consultant](https://www.blairanderson.co/)
 
